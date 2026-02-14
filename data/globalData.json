@@ -1,77 +1,102 @@
 {
   "enable_development_mode": false,
-  "company_name": "Tyska Alexander Orthodontics",
-  "domain": "taortho.com",
-  "email": "info@mandtortho.com",
+  "company_name": "Transcend Orthodontics",
+  "domain": "www.transcendortho.com",
+  "email": "info@transcendortho.com",
   "phone": {
-    "number": "(716) 759-8323",
-    "href": "tel:+17167598323",
-    "aria": "7 1 6, 7 5 9, 8 3 2 3"
+    "number": "(201) 591-1528",
+    "href": "tel:+12015911528",
+    "aria": "2 0 1, 5 9 1, 1 5 2 8"
   },
   "location": [
     {
-      "title": "Clarence Office",
+      "title": "Bayonne Office",
       "address": {
-        "street": "9650 Main Street",
-        "suite": "",
-        "city_state": "Clarence, NY 14031",
+        "street": "552 Broadway",
+        "suite": "Suite 2",
+        "city_state": "Bayonne, NJ 07002",
         "coordinates": {
-          "longitude": "-78.6314355",
-          "latitude": "42.9736638"
+          "longitude": "-74.1163597",
+          "latitude": "40.6657777"
         }
       },
       "phone": {
-        "number": "(716) 759-8323",
-        "href": "tel:+17167598323"
+        "number": "(201) 591-1528",
+        "href": "tel:+12015911528"
       },
-      "email": "info@mandtortho.com",
+      "email": "info@transcendortho.com",
       "hours": [
         {
-          "day": "Monday",
-          "time": "8:30 am \t6:30 pm"
+          "day": "Mon",
+          "time": "9:00am - 5:00pm"
         },
         {
-          "day": "Tuesday",
-          "time": "8:30 am \t6:30 pm"
+          "day": "Tue",
+          "time": "10:00am - 6:00pm"
         },
         {
-          "day": "Wednesday",
-          "time": "8:00 am \t11:30 am"
+          "day": "Wed",
+          "time": "9:00am - 5:00pm"
         },
         {
-          "day": "Thursday",
-          "time": "8:00 am \t6:00 pm"
+          "day": "Thu",
+          "time": "9:00am - 5:00pm"
         },
         {
-          "day": "Friday",
-          "time": "8:00 am \t11:30 am"
+          "day": "Fri",
+          "time": "8:00am - 3:00pm"
         }
       ],
       "directions_link": {
-        "href": "https://www.google.com/maps/search/?api=1&query=9650+Main+St+Clarence+NY+14031",
+        "href": "https://www.google.com/maps/search/?api=1&query=552+Broadway+Suite+2,+Bayonne,+NJ+07002",
         "label": "Get Directions"
       },
       "special_note": ""
     },
     {
-      "title": "Tonawanda Office",
+      "title": "Clifton Office",
       "address": {
-        "street": "1077 Delaware Rd",
+        "street": "1005 Clifton Ave",
         "suite": "",
-        "city_state": "Tonawanda, NY 14223",
+        "city_state": "Clifton, NJ 07013",
         "coordinates": {
-          "longitude": "-78.8730228",
-          "latitude": "42.9901241"
+          "longitude": "-74.1636096",
+          "latitude": "40.8628408"
         }
       },
       "phone": {
-        "number": "(716) 875-0405",
-        "href": "tel:+17168750405"
+        "number": "(973) 773-2933",
+        "href": "tel:+19737732933"
       },
-      "email": "info@mandtortho.com",
-      "hours": [],
+      "email": "info@transcendortho.com",
+      "hours": [
+        {
+          "day": "Mon",
+          "time": "8:30am - 5:00pm"
+        },
+        {
+          "day": "Tue",
+          "time": "8:30am - 5:00pm"
+        },
+        {
+          "day": "Wed",
+          "time": "9:00am - 5:00pm"
+        },
+        {
+          "day": "Thu",
+          "time": "8:30am - 5:00pm"
+        },
+        {
+          "day": "Fri",
+          "time": "8:30am - 5:00pm"
+        },
+        {
+          "day": "Sat",
+          "time": "8:00am - 1:00pm (by appointment)"
+        }
+      ],
       "directions_link": {
-        "href": "https://www.google.com/maps/search/?api=1&query=1077+Delaware+Rd+Tonawanda+NY+14223",
+        "href": "https://www.google.com/maps/search/?api=1&query=1005+Clifton+Ave,+Clifton,+NJ+07013",
         "label": "Get Directions"
       },
       "special_note": ""
@@ -94,28 +119,28 @@
     "content_alignment": "right",
     "links": [
       {
-        "icon": "tooth-two-v1",
-        "text": "9650 Main Street, Clarence, NY 14031",
-        "href": "https://www.google.com/maps/search/?api=1&query=9650+Main+St+Clarence+NY+14031",
-        "label": "View 9650 Main Street, Clarence, NY 14031 on google maps",
+        "icon": "tooth-two-v2",
+        "text": "Bayonne: 552 Broadway Suite 2, Bayonne, NJ 07002",
+        "href": "https://www.google.com/maps/search/?api=1&query=552+Broadway+Suite+2,+Bayonne,+NJ+07002",
+        "label": "View 552 Broadway Suite 2, Bayonne, NJ 07002 on google maps",
         "new_window": true
       },
       {
         "icon": "phone",
-        "text": "(716) 759-8323",
-        "href": "tel:+17167598323",
-        "label": "Call 7 1 6. 7 5 9. 8 3 2 3.",
+        "text": "(201) 591-1528",
+        "href": "tel:+12015911528",
+        "label": "Call 2 0 1. 5 9 1. 1 5 2 8.",
         "new_window": false
       }
     ],
     "announcement": {
       "icon": "tooth-two-v2",
-      "label": "",
-      "text": "",
-      "mobile_text": "",
+      "label": "Schedule your complimentary consultation",
+      "text": "Complimentary consultation available — call or request online to get started.",
+      "mobile_text": "Complimentary consultation",
       "modal": {
-        "title": "",
-        "text": ""
+        "title": "Schedule a Complimentary Consultation",
+        "text": "Call (201) 591-1528 or use the online form to request your free initial exam and personalized treatment plan."
       }
     }
   },
@@ -124,14 +149,14 @@
     "buttons": [
       {
         "button": {
-          "type": "nuxt",
+          "type": "anchor",
           "style": "primary",
           "label": "Schedule Consultation",
           "aria_label": "Schedule a consultation",
-          "href": "",
-          "path": "/contact",
-          "hash": "#form",
-          "external": false,
+          "href": "https://www.transcendortho.com/appointment-request/",
+          "path": "",
+          "hash": "",
+          "external": true,
           "include_icon": true,
           "icon": "tooth-two-v2",
           "color": "primary"
@@ -150,7 +175,19 @@
   "footer": {
     "social_media": [
       {
-        "href": "https://www.youtube.com/channel/UC1pgQhnbNQ7Mf0xFm_2KF-g",
+        "href": "https://www.facebook.com/people/Transcend-Orthodontics/61556067040391/",
+        "icon": "facebook"
+      },
+      {
+        "href": "https://x.com/bracesfornj/",
+        "icon": "twitter"
+      },
+      {
+        "href": "https://www.instagram.com/transcend_orthodontics/",
+        "icon": "instagram"
+      },
+      {
+        "href": "https://www.youtube.com/channel/UClEVFG6Iy70hPzyoJePJYEw/",
         "icon": "youtube"
       }
     ],
@@ -158,12 +195,12 @@
   },
   "enable_popup": false,
   "popup": {
-    "title": "",
+    "title": "Welcome to Transcend Orthodontics",
     "text": "",
     "image": {
-      "src": "",
+      "src": "https://www.transcendortho.com/wp-content/uploads/2024/04/logo.png",
       "webp": "",
-      "alt": "",
+      "alt": "Transcend Orthodontics logo",
       "aria_hidden": false,
       "bgColor": "",
       "imageBackground": false,
@@ -171,7 +208,9 @@
       "objectPosition": "",
       "forceAlt": "",
       "loading_mask": "",
-      "image_selection_hints": null
+      "image_selection_hints": {
+        "context_category": "Home Hero"
+      }
     }
   }
 }
